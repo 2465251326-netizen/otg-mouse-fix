@@ -25,7 +25,7 @@
 - 本项目由对原版闭源应用「OTG鼠标校正」（包名 `com.evfix.validate`）逆向分析而来，`app/src/` 下的
   界面与服务代码为重写/增强实现。
 - `vendor/` 与 `native/` 目录下的文件（`AndroidManifest.xml`、`resources.arsc`、`classes*.dex`、
-  `res/`、`libevtool.so`）**提取自原版 APK，版权归原作者所有**，在本仓库中仅用于互操作与个人学习目的，
+  `res/`、`libevtool.so`）**提取自原版 APK，APP无版权**，在本仓库中仅用于互操作与个人学习目的，
   MIT 许可证不覆盖这些文件。如你是原作者且要求移除，请提 Issue，我会立即处理。
 - 本项目仅供学习研究与个人设备使用，请勿用于商业用途；使用本项目造成的任何问题由使用者自行承担。
 - 感谢 [Shizuku](https://github.com/RikkaApps/Shizuku)（RikkaApps）提供的无 ROOT 特权执行框架；
