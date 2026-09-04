@@ -1,0 +1,6 @@
+build/
+*.apk
+debug.keystore
+.DS_Store
+.idea/
+*.iml
